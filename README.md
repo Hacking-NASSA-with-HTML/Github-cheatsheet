@@ -9,6 +9,7 @@ git push origin main
 git status
 ```
 
+#### Must use present tense
 ##### "add feature" not "added feature" and "move cursor to..." not "moves cursor to..."
 
 ##### For starting project
