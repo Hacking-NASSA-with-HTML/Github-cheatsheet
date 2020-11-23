@@ -54,6 +54,13 @@ docs: update readme with additional information
 docs: update description of run() method
 ```
 
+#### Examples:
+```
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+```
+
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
 
 ##### how to write links: [link to Google!](http://google.com)
 ```
