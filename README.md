@@ -8,3 +8,47 @@ git commit -m "init: cheatsheet project"
 git push origin main
 git status
 ```
+
+##### "add feature" not "added feature" and "move cursor to..." not "moves cursor to..."
+
+##### For starting project
+```
+init: start youtube-task
+init: start mentor-dashboard task
+```
+
+##### New functionality added
+```
+feat: add basic page layout
+feat: implement search box 
+feat: implement request to youtube API
+feat: implement swipe for horizontal list
+feat: add additional navigation button
+feat: add banner
+feat: add social links
+feat: add physical security section
+feat: add real social icons
+```
+
+##### fix:
+```
+fix: implement correct loading data from youtube
+fix: change layout for video items to fix bugs
+fix: relayout header for firefox
+fix: adjust social links for mobile
+```
+
+##### refactor: location of the files changed, deleted, added. Improved algorithms. 
+##### without functionality changing
+```
+refactor: change structure of the project
+refactor: rename vars for better readability
+refactor: apply eslint
+refactor: apply prettier
+```
+
+##### docs: works with project's documentations/readME
+```
+docs: update readme with additional information
+docs: update description of run() method
+```
