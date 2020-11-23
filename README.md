@@ -53,3 +53,9 @@ refactor: apply prettier
 docs: update readme with additional information
 docs: update description of run() method
 ```
+
+
+#####  [link to Google!](http://google.com)
+[Learn more about Markdown](https://guides.github.com/features/mastering-markdown)
+[GitHub supports emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
+[How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request)
