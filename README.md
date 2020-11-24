@@ -71,3 +71,5 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 * [GitHub supports emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
 
 * [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request)
+
+* [Basic writing and formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
