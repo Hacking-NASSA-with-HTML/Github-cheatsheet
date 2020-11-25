@@ -9,6 +9,11 @@ git push origin main
 git status
 ```
 
+##### how to write links: [link to Google!](http://google.com)
+```
+[link to Google!](http://google.com)
+```
+
 #### Must use present tense
 ##### "add feature" not "added feature" and "move cursor to..." not "moves cursor to..."
 
