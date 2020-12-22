@@ -9,9 +9,9 @@ git push origin main
 git status
 ```
 
-##### how to write links: [link to Google!](http://google.com)
+##### how to write links: [Here is your text description of the link to Google!](http://google.com)
 ```
-[link to Google!](http://google.com)
+[Here is your text description of the link to Google!](http://google.com)
 ```
 
 #### Must use present tense
