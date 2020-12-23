@@ -72,7 +72,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 [link to Google!](http://google.com)
 ```
 ---
-To create gray dividing line:
+To create a gray dividing line:
 use this ```---```
 ---
 * [Learn more about Markdown](https://guides.github.com/features/mastering-markdown)
