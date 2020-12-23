@@ -73,8 +73,8 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 ```
 ---
 To create gray dividing line:
----
 use this ```---```
+---
 * [Learn more about Markdown](https://guides.github.com/features/mastering-markdown)
 
 * [GitHub supports emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
